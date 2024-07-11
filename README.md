@@ -26,7 +26,7 @@ Welcome to the Student Result Management System, a comprehensive web application
 
 2. **Navigate to the project directory:**
    ```bash
-   cd student-result-management-system
+   cd LGMVIP-05
    ```
 
 3. **Set up the database:**
@@ -58,4 +58,4 @@ Welcome to the Student Result Management System, a comprehensive web application
 This project was developed during the LetsGrowMore internship. Special thanks to the LetsGrowMore team for their support and guidance.
 
 ## Contact
-For any questions or feedback, please reach out to gulamdastageer@gmail.com.
+For any questions or feedback, please reach out to gulamdastageer@gmail.com
