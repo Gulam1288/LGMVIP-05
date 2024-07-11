@@ -21,7 +21,7 @@ Welcome to the Student Result Management System, a comprehensive web application
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/student-result-management-system.git
+   git clone https://github.com/gulam1288/LGMVIP-05.git
    ```
 
 2. **Navigate to the project directory:**
@@ -31,7 +31,7 @@ Welcome to the Student Result Management System, a comprehensive web application
 
 3. **Set up the database:**
    - Create a new MySQL database.
-   - Import the `database.sql` file into your MySQL database to set up the required tables.
+   - Import the `student_result.sql` file into your MySQL database to set up the required tables.
 
 4. **Configure the database connection:**
    - Update the database connection details in `config.php` with your MySQL credentials.
@@ -54,17 +54,8 @@ Welcome to the Student Result Management System, a comprehensive web application
    - View personal results
    - Update personal profile
 
-## Screenshots
-(Add screenshots of your application here to visually showcase your project.)
-
 ## Credits
 This project was developed during the LetsGrowMore internship. Special thanks to the LetsGrowMore team for their support and guidance.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For any questions or feedback, please reach out to [your email].
-```
-
-Feel free to replace the placeholders (e.g., `yourusername`, `your email`, and `database.sql`) with the actual details specific to your project.
+For any questions or feedback, please reach out to gulamdastageer@gmail.com.
